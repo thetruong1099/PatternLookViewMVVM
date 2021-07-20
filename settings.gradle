@@ -1,0 +1,2 @@
+rootProject.name = "PatternLookViewMVVM"
+include ':app'
